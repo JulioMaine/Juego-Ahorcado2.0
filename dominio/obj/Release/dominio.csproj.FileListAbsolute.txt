@@ -1,0 +1,12 @@
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\bin\Release\dominio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\bin\Release\dominio.pdb
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Release\dominio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Release\dominio.pdb
+D:\MIS COSAS\Escritorio\Juego-Ahorcado2.0\dominio\bin\Release\dominio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado2.0\dominio\bin\Release\dominio.pdb
+D:\MIS COSAS\Escritorio\Juego-Ahorcado2.0\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado2.0\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado2.0\dominio\obj\Release\dominio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado2.0\dominio\obj\Release\dominio.pdb
